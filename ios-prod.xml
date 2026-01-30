@@ -19,7 +19,7 @@
       <enclosure
         url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
         sparkle:shortVersionString="1.4.6"
-        sparkle:version="1"
+        sparkle:version="2"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
