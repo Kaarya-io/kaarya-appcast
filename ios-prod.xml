@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+
+  <channel>
+    <title>Kaarya iOS Updates</title>
+
+    <item>
+      <title>Kaarya 1.4.3</title>
+
+      <description>
+        <![CDATA[
+        • Stability improvements  
+        • Bug fixes  
+        ]]>
+      </description>
+
+      <enclosure
+        url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
+        sparkle:shortVersionString="1.4.3"
+        sparkle:version="1"
+        type="application/octet-stream" />
+
+      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
+    </item>
+
+  </channel>
+</rss>
