@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+
+  <channel>
+    <title>Kaarya App Updates</title>
+    <description>Android app updates for Kaarya</description>
+
+    <item>
+      <title>Version 1.4.3</title>
+
+      <description>
+        <![CDATA[
+        • Bug fixes  
+        • Performance improvements  
+        ]]>
+      </description>
+
+      <enclosure
+        url="https://play.google.com/store/apps/details?id=com.kaarya.io&hl=en"
+        sparkle:shortVersionString="1.4.3"
+        sparkle:version="2"
+        type="application/octet-stream" />
+
+      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
+    </item>
+
+  </channel>
+</rss>
