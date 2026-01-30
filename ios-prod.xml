@@ -6,18 +6,19 @@
     <title>Kaarya iOS Updates</title>
 
     <item>
-      <title>Kaarya 1.4.3</title>
+      <title>Kaarya 1.4.6</title>
 
       <description>
         <![CDATA[
-        • Stability improvements  
-        • Bug fixes  
+        • Fixed map related issues  
+        • Made service quote field optional
+        • Improved update dialog behaviour and UI
         ]]>
       </description>
 
       <enclosure
         url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
-        sparkle:shortVersionString="1.4.3"
+        sparkle:shortVersionString="1.4.6"
         sparkle:version="1"
         type="application/octet-stream" />
 
