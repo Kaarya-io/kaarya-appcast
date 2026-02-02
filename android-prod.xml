@@ -18,7 +18,7 @@
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.kaarya.io&hl=en"
         sparkle:shortVersionString="1.4.6"
-        sparkle:version="1"
+        sparkle:version="2"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
