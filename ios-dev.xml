@@ -6,19 +6,18 @@
     <title>Kaarya iOS Updates</title>
 
     <item>
-      <title>Kaarya 1.4.7</title>
+      <title>Kaarya 1.4.8</title>
 
       <description>
         <![CDATA[
-        • Fixed time display issue in task list
-        • Fixed profile progress indicator not updating correctly
+        - Resolved notification issue on IOS.
         ]]>
       </description>
 
       <enclosure
         url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
-        sparkle:shortVersionString="1.4.7"
-        sparkle:version="4"
+        sparkle:shortVersionString="1.4.8"
+        sparkle:version="5"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
