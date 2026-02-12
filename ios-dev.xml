@@ -10,14 +10,14 @@
 
       <description>
         <![CDATA[
-        - Resolved notification issue on IOS.
+        - Resolved audio issue
         ]]>
       </description>
 
       <enclosure
         url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
         sparkle:shortVersionString="1.4.8"
-        sparkle:version="5"
+        sparkle:version="6"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
