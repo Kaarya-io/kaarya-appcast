@@ -1,15 +1,11 @@
 {
-  "latestVersion": "1.4.9",
-  "latestBuild": 9,
+  "latestVersion": "1.4.11",
+  "latestBuild": 12,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
-  "critical": true,
+  "critical": false,
   "releaseNotes": [
-    "Major performance improvements",
-    "Crash fixes on dashboard",
-    "Improved socket reconnection logic",
-    "Minor UI polish",
-    "Background notification improvements"
+    "Resolve notification in ios"
   ],
-  "storeUrl":"https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
+  "storeUrl": "https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
 }
