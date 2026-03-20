@@ -3,7 +3,7 @@
   "latestBuild": 12138,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
-  "critical": true,
+  "critical": false,
   "releaseNotes": [
     "Major performance improvements",
     "Crash fixes on dashboard",
