@@ -1,15 +1,12 @@
 {
-  "latestVersion": "1.4.8",
-  "latestBuild": 12138,
+  "latestVersion": "1.4.10",
+  "latestBuild": 12148,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
-  "critical": true,
+  "critical": false,
   "releaseNotes": [
-    "Major performance improvements",
-    "Crash fixes on dashboard",
-    "Improved socket reconnection logic",
-    "Minor UI polish",
-    "Background notification improvements"
+    "Fixed ios notification issue",
+    "UI/UX improvements"
   ],
   "storeUrl": "https://play.google.com/store/apps/details?id=com.kaarya.io"
 }
