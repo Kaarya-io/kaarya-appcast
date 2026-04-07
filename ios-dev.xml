@@ -6,21 +6,21 @@
     <title>Kaarya iOS Updates</title>
 
     <item>
-      <title>Kaarya 1.4.9</title>
+      <title>Kaarya 1.4.12</title>
 
       <description>
         <![CDATA[
-        - Resolve app crash
+        khalti payment fixes
         ]]>
       </description>
 
       <enclosure
         url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
-        sparkle:shortVersionString="1.4.9"
-        sparkle:version="9"
+        sparkle:shortVersionString="1.4.12"
+        sparkle:version="19"
         type="application/octet-stream" />
 
-      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
+      <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
     </item>
 
   </channel>

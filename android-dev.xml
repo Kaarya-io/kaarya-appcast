@@ -6,17 +6,17 @@
     <title>Kaarya Android Updates</title>
 
     <item>
-      <title>Kaarya 1.4.9</title>
+      <title>Kaarya 1.4.12</title>
       <description>
         <![CDATA[
-        - Resolve app crash
+        khalti payment fixes
         ]]>
       </description>
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.kaarya.io&hl=en"
-        sparkle:shortVersionString="1.4.9"
-        sparkle:version="12141"
+        sparkle:shortVersionString="1.4.12"
+        sparkle:version="12150"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
