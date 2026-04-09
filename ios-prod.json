@@ -3,9 +3,7 @@
   "latestBuild": 21,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
-  "critical": true,
-  "releaseNotes": [
-    "Fix app crash on startup"
-  ],
+  "critical": false,
+  "releaseNotes": ["Fix app crash on startup"],
   "storeUrl": "https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
 }
