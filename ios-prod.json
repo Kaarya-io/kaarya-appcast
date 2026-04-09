@@ -1,12 +1,11 @@
 {
-  "latestVersion": "1.4.10",
-  "latestBuild": 17,
+  "latestVersion": "1.4.12",
+  "latestBuild": 21,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
-  "critical": false,
+  "critical": true,
   "releaseNotes": [
-    "Fixed ios notification issue",
-    "UI/UX improvements"
+    "Fix app crash on startup"
   ],
   "storeUrl": "https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
 }
