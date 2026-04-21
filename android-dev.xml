@@ -6,17 +6,17 @@
     <title>Kaarya Android Updates</title>
 
     <item>
-      <title>Kaarya 1.4.12</title>
+      <title>Kaarya 1.4.13</title>
       <description>
         <![CDATA[
-        khalti payment fixes
+        - QR scanning
         ]]>
       </description>
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.kaarya.io&hl=en"
-        sparkle:shortVersionString="1.4.12"
-        sparkle:version="12150"
+        sparkle:shortVersionString="1.4.13"
+        sparkle:version="12153"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
