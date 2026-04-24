@@ -6,20 +6,20 @@
     <title>Kaarya Android Updates</title>
 
     <item>
-      <title>Kaarya 1.4.12</title>
+      <title>Kaarya 1.4.13</title>
       <description>
         <![CDATA[
-        - Fix app crash on startup
+        - Task verification
         ]]>
       </description>
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.kaarya.io&hl=en"
-        sparkle:shortVersionString="1.4.12"
-        sparkle:version="12152"
+        sparkle:shortVersionString="1.4.13"
+        sparkle:version="12155"
         type="application/octet-stream" />
 
-      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
+      <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
     </item>
   </channel>
 </rss>
