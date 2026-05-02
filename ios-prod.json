@@ -1,11 +1,12 @@
 {
-  "latestVersion": "1.4.13",
-  "latestBuild": 23,
+  "latestVersion": "1.4.14",
+  "latestBuild": 25,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
   "critical": false,
   "releaseNotes": [
-    "Task verification"
+    "Pin based verification",
+    "Token discount"
   ],
   "storeUrl": "https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
 }

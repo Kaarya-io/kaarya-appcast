@@ -1,11 +1,12 @@
 {
-  "latestVersion": "1.4.13",
-  "latestBuild": 12155,
+  "latestVersion": "1.4.14",
+  "latestBuild": 12157,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
   "critical": false,
   "releaseNotes": [
-    "Task verification"
+    "Pin based verification",
+    "Token discount"
   ],
   "storeUrl": "https://play.google.com/store/apps/details?id=com.kaarya.io"
 }
