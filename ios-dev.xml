@@ -6,19 +6,18 @@
     <title>Kaarya iOS Updates</title>
 
     <item>
-      <title>Kaarya 1.4.14</title>
+      <title>Kaarya 1.4.15</title>
 
       <description>
         <![CDATA[
-        - Pin based verification
-        - Token discount
+        - Video upload bug
         ]]>
       </description>
 
       <enclosure
         url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
-        sparkle:shortVersionString="1.4.14"
-        sparkle:version="24"
+        sparkle:shortVersionString="1.4.15"
+        sparkle:version="26"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
