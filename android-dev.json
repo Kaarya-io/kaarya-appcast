@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.4.15",
-  "latestBuild": 12158,
+  "latestVersion": "1.4.16",
+  "latestBuild": 12160,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
   "critical": false,
   "releaseNotes": [
-    "Video upload bug"
+    "Bug fixes and improvements"
   ],
   "storeUrl": "https://play.google.com/store/apps/details?id=com.kaarya.io"
 }
