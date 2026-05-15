@@ -6,17 +6,17 @@
     <title>Kaarya Android Updates</title>
 
     <item>
-      <title>Kaarya 1.4.16</title>
+      <title>Kaarya 1.4.17</title>
       <description>
         <![CDATA[
-        - Bug fixes and improvements
+        bug fixes
         ]]>
       </description>
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.kaarya.io&hl=en"
-        sparkle:shortVersionString="1.4.16"
-        sparkle:version="12160"
+        sparkle:shortVersionString="1.4.17"
+        sparkle:version="12161"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
