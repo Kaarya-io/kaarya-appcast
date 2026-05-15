@@ -6,7 +6,7 @@
     <title>Kaarya iOS Updates</title>
 
     <item>
-      <title>Kaarya 1.4.17</title>
+      <title>Kaarya 1.4.18</title>
 
       <description>
         <![CDATA[
@@ -16,8 +16,8 @@
 
       <enclosure
         url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
-        sparkle:shortVersionString="1.4.17"
-        sparkle:version="29"
+        sparkle:shortVersionString="1.4.18"
+        sparkle:version="30"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
