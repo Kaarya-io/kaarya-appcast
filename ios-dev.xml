@@ -21,7 +21,7 @@
         sparkle:version="36"
         type="application/octet-stream" />
 
-      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
+      <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
     </item>
 
   </channel>
