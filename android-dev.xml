@@ -6,20 +6,21 @@
     <title>Kaarya Android Updates</title>
 
     <item>
-      <title>Kaarya 1.4.21</title>
+      <title>Kaarya 1.4.23</title>
       <description>
         <![CDATA[
-        Fix push notification issue
+        - Fixed document skipping during profile setup
+        - Updated booking availability to office hours (8 AM – 6 PM)
         ]]>
       </description>
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.kaarya.io&hl=en"
-        sparkle:shortVersionString="1.4.21"
-        sparkle:version="12165"
+        sparkle:shortVersionString="1.4.23"
+        sparkle:version="12168"
         type="application/octet-stream" />
 
-      <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
+      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
     </item>
   </channel>
 </rss>
