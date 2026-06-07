@@ -1,11 +1,12 @@
 {
-  "latestVersion": "1.4.17",
-  "latestBuild": 12166,
+  "latestVersion": "1.4.18",
+  "latestBuild": 12169,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
   "critical": false,
   "releaseNotes": [
-    "Fix notification issue"
+    "Fixed document skipping during profile setup",
+    "Bookings now limited to office hours (8 AM \u2013 6 PM)"
   ],
   "storeUrl": "https://play.google.com/store/apps/details?id=com.kaarya.io"
 }
