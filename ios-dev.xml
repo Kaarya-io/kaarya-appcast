@@ -6,19 +6,18 @@
     <title>Kaarya iOS Updates</title>
 
     <item>
-      <title>Kaarya 1.4.23</title>
+      <title>Kaarya 1.4.27</title>
 
       <description>
         <![CDATA[
-        - Fixed document skipping during profile setup
-        - Updated booking availability to office hours (8 AM – 6 PM)
+        - Bug fixes
         ]]>
       </description>
 
       <enclosure
         url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
-        sparkle:shortVersionString="1.4.23"
-        sparkle:version="36"
+        sparkle:shortVersionString="1.4.27"
+        sparkle:version="40"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
