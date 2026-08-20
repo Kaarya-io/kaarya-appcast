@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.4.27",
-  "latestBuild": 12172,
+  "latestVersion": "1.4.31",
+  "latestBuild": 12176,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
   "critical": false,
   "releaseNotes": [
-    "Bug fixes"
+    "Bug fixes and improvements"
   ],
   "storeUrl": "https://play.google.com/store/apps/details?id=com.kaarya.io"
 }

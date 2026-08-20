@@ -1,12 +1,11 @@
 {
-  "latestVersion": "1.4.18",
-  "latestBuild": 37,
+  "latestVersion": "1.4.19",
+  "latestBuild": 42,
   "minRequiredVersion": "1.4.6",
   "minRequiredBuild": 10,
-  "critical": true,
+  "critical": false,
   "releaseNotes": [
-    "Fixed document skipping during profile setup",
-    "Bookings now limited to office hours (8 AM \u2013 6 PM)"
+    "Bug fixes and improvements"
   ],
   "storeUrl": "https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
 }

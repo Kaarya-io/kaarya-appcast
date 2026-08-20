@@ -6,18 +6,18 @@
     <title>Kaarya iOS Updates</title>
 
     <item>
-      <title>Kaarya 1.4.27</title>
+      <title>Kaarya 1.4.31</title>
 
       <description>
         <![CDATA[
-        - Bug fixes
+        - Bug fixes and improvements
         ]]>
       </description>
 
       <enclosure
         url="https://apps.apple.com/np/app/kaarya-serivces-at-fingertip/id6752819964"
-        sparkle:shortVersionString="1.4.27"
-        sparkle:version="40"
+        sparkle:shortVersionString="1.4.31"
+        sparkle:version="43"
         type="application/octet-stream" />
 
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
